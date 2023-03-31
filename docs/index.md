@@ -1,10 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Brayden Miller's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
+# Brayden Miller
+208-296-9797 | brayden33miller@gmail.com | www.linkedin.com/in/brayden-miller
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
@@ -16,70 +15,65 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`September 2020 - July 2023`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Current GPA: 3.5
+- Current member of the MBA society
 
 
-## Related Experience
+__Relevant Coursework and Associated Skills__
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Business Analytics- Developed skills in Microsoft Power BI
+- Spreadsheet Analysis- Learned advanced knowledge of Microsoft Excel
+- Intermediate Statistics- Programmed statistical analysis reports in R-Studio software
+- Programming Building Blocks- Learned basic to intermediate skills in the Python programming language
+- Database Management- Basic to intermediate skills in MySQL programming language
 
 
-## Service and Work History
+## PROFESSIONAL EXPERIENCE
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### Salesman, Finance and Insurance
 
+`April 2022 - August 2022`
+__Instant Equity Auto LLC__, Boise, Idaho
 
-`2023-2025`
-__Service Missionary__, South Africa
+Signed 50+ deals a month helping customers select, drive, and finance vehicles. Constructed mastery of
+negotiation and proper people skills to create an environment of trust for customers to make purchasing decisions
+• Attained $150k+ of gross sales revenue each month with two other salesmen
+• Pitched 7+ people a day applying advanced sales and communication skills to help buyers make purchasing
+decisions and eventually close sales
+• Financed several customers by professionally gathering personal information, submitting credit applications, and
+working with banks on loan approvals
 
+### Car Acquisitions and Sales
+
+`November 2020 - March 2022`
+__M&T Equipment LLC__, Nampa, Idaho
+
+- Secured 20+ vehicles to test drive, negotiate, and buy from private party sellers mastering skills of persuasion and
+fair negotiation
+• Cleaned, detailed, repaired, and listed each vehicle on 3rd party websites bringing constructed skills of proper
+marketing and product image
+• Negotiated prices with potential buyers and averaged $2k+ in net sales profit per vehicle
+• Produced $280k+ in personal gross revenue over a span of 16 months
+
+`May 2021 - August 2021`
+__Door to Door Salesman__, Atlanta, Georgia
+
+• Initiated 120+ sales contacts with potential clients cold calling doors each day acquiring more solidified traits of
+resiliency and strong work ethic
+• Earned 220+ pest accounts generating $100k+ in gross sales revenue for Anthem over 3.5 months
+• Developed high-level sales, communication, and influential skills with daily sales training and experience
+• Accomplished long work days and 60+ hours a week of working in the Georgia summer sun 
+
+### ACHIEVEMENTS
+
+- Ran the Salt Lake City full marathon (26.2 miles) in April of 2022
+• Served a 2-year service mission in 4 corners areas of New Mexico, Arizona, Utah, and Colorado with management
+roles of overseeing teams of 30+ service reps (Years 2018-2020)
+• Awarded as an all-state running back honorable mention from a top 10 state-ranked high school football program
+(November of 2017)
 
 
 <!-- ### Footer
